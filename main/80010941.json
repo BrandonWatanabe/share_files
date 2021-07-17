@@ -1,0 +1,156 @@
+[
+    {
+        "TotalResults": 1,
+        "TotalPages": 1,
+        "PageNo": 1,
+        "SightList": [
+            {
+                "SightID": 80010941,
+                "Title": "フジテレビ本社ビル",
+                "Kana": "ふじてれびほんしゃびる",
+                "Homen": {
+                    "Code": "02",
+                    "Name": "関東"
+                },
+                "Ken": {
+                    "Code": "13",
+                    "Name": "東京都"
+                },
+                "SubArea": {
+                    "Code": "1301",
+                    "Name": "東京駅・銀座・お台場"
+                },
+                "Mesh": {
+                    "Code": "130111",
+                    "Name": "お台場・有明・豊洲"
+                },
+                "Chiku": {
+                    "Code": "1310306",
+                    "Name": "お台場(港区)"
+                },
+                "JIS": {
+                    "Code": "13103",
+                    "Name": "港区"
+                },
+                "GenreList": [
+                    {
+                        "LGenre": {
+                            "Code": "1",
+                            "Name": "見る"
+                        },
+                        "MGenre": {
+                            "Code": "19",
+                            "Name": "その他"
+                        },
+                        "Genre": {
+                            "Code": "161",
+                            "Name": "工場・施設見学"
+                        }
+                    }
+                ],
+                "Address": "東京都港区台場2-4-8",
+                "LatitudeW10": "35.626913105",
+                "LongitudeW10": "139.774311961",
+                "Latitude": "35372521",
+                "Longitude": "139463916",
+                "Summary": "5階の「フジテレビギャラリー」の常設展「ガチャピン・ムックミュージアム」(400円)や、25階の「はちたま」(700円)などを開放。放送中のドラマに関する展示やバラエティ番組の擬似セットなどがある。ベビーカー利用の場合は1階フジテレビモール内のエレベーターを利用し、7階に上がることができる。また有料スペースを利用しない場合でも近くのスタッフに声をかければ24階にある「めざまスカイ」横の授乳室を使用することが可能。",
+                "Time": "ガチャピン・ムックミュージアム・球体展望室10～18時(入館～17時30分)※他は店舗により異なる",
+                "Closed": "球体・「フジテレビギャラリー」は月曜(祝日の場合は翌日)※他、店舗により異なる",
+                "Price": "入館無料、ガチャピン・ムックミュージアム入場400円、小・中学生100円、球体展望室「はちたま」は入場700円、小・中学生300円、セット券は大人1000円、小・中学生500円",
+                "Traffic1": "ゆりかもめ台場駅→徒歩1分。またはりんかい線東京テレポート駅→徒歩5分。またはＪＲ品川駅→お台場レインボーバス、品川・台場循環利用",
+                "Traffic2": "首都高速台場出入口から10分",
+                "Station": {
+                    "Code": "7246",
+                    "Name": "台場（東京）"
+                },
+                "Parking": {
+                    "Code": "なし"
+                },
+                "Tel": "03-5531-1111",
+                "TelAnnotation": "※9時30分～21時",
+                "PhotoList": [
+                    {
+                        "Order": 1,
+                        "URL": "SI_80010941_15200.jpg"
+                    }
+                ],
+                "Rank": "おすすめ度A",
+                "SightOptionList": [
+                    {
+                        "SightOptionCD": 0,
+                        "SightOptionName": "ちょっと立ち寄り",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "所要60～90分くらい"
+                    },
+                    {
+                        "SightOptionCD": 1,
+                        "SightOptionName": "ベビーおすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 2,
+                        "SightOptionName": "キッズおすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 3,
+                        "SightOptionName": "女子おすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 4,
+                        "SightOptionName": "ペットおすすめ",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "おすすめでない"
+                    },
+                    {
+                        "SightOptionCD": 5,
+                        "SightOptionName": "春におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 6,
+                        "SightOptionName": "夏におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 7,
+                        "SightOptionName": "秋におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 8,
+                        "SightOptionName": "冬におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 9,
+                        "SightOptionName": "雨でもOK",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 23,
+                        "SightOptionName": "英語パンフレットの有無",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "あり"
+                    },
+                    {
+                        "SightOptionCD": 24,
+                        "SightOptionName": "英語音声ガイドの有無",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "あり"
+                    }
+                ],
+                "HasCoupon": 0
+            }
+        ]
+    }
+]

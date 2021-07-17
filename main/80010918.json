@@ -1,0 +1,154 @@
+[
+    {
+        "TotalResults": 1,
+        "TotalPages": 1,
+        "PageNo": 1,
+        "SightList": [
+            {
+                "SightID": 80010918,
+                "Title": "レインボーブリッジ",
+                "Kana": "れいんぼーぶりっじ",
+                "Homen": {
+                    "Code": "02",
+                    "Name": "関東"
+                },
+                "Ken": {
+                    "Code": "13",
+                    "Name": "東京都"
+                },
+                "SubArea": {
+                    "Code": "1301",
+                    "Name": "東京駅・銀座・お台場"
+                },
+                "Mesh": {
+                    "Code": "130111",
+                    "Name": "お台場・有明・豊洲"
+                },
+                "Chiku": {
+                    "Code": "1310306",
+                    "Name": "お台場(港区)"
+                },
+                "JIS": {
+                    "Code": "13103",
+                    "Name": "港区"
+                },
+                "GenreList": [
+                    {
+                        "LGenre": {
+                            "Code": "1",
+                            "Name": "見る"
+                        },
+                        "MGenre": {
+                            "Code": "19",
+                            "Name": "その他"
+                        },
+                        "Genre": {
+                            "Code": "174",
+                            "Name": "橋"
+                        }
+                    }
+                ],
+                "Address": "東京都港区海岸3～台場1",
+                "LatitudeW10": "35.635200858",
+                "LongitudeW10": "139.767565041",
+                "Latitude": "35375505",
+                "Longitude": "139461487",
+                "Summary": "東京港の芝浦とお台場を結ぶ、爽快なドライブが楽しめるスポット。レインボーブリッジを渡れば、そこは都心の喧騒を離れたアーバンリゾートお台場。人気のホテルや商業施設が並んでいる。さらにお台場から望むレインボーブリッジの夜景もまた格別。東京を代表する夜景を楽しみながらドライブしたい。",
+                "Time": "通行自由",
+                "Closed": "通行自由",
+                "Price": "通行自由",
+                "Traffic1": "ゆりかもめお台場海浜公園駅→徒歩10分。またはゆりかもめ芝浦ふ頭駅→徒歩5分",
+                "Traffic2": "首都高速台場出入口からすぐ",
+                "Station": {
+                    "Code": "7245",
+                    "Name": "お台場海浜公園"
+                },
+                "Parking": {
+                    "Code": "なし"
+                },
+                "PhotoList": [
+                    {
+                        "Order": 1,
+                        "URL": "SI_80010918_15150.jpg"
+                    }
+                ],
+                "Rank": "おすすめ度A",
+                "SightOptionList": [
+                    {
+                        "SightOptionCD": 0,
+                        "SightOptionName": "ちょっと立ち寄り",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "所要30分程度"
+                    },
+                    {
+                        "SightOptionCD": 1,
+                        "SightOptionName": "ベビーおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 2,
+                        "SightOptionName": "キッズおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 3,
+                        "SightOptionName": "女子おすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 4,
+                        "SightOptionName": "ペットおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 5,
+                        "SightOptionName": "春におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 6,
+                        "SightOptionName": "夏におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 7,
+                        "SightOptionName": "秋におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 8,
+                        "SightOptionName": "冬におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 9,
+                        "SightOptionName": "雨でもOK",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 23,
+                        "SightOptionName": "英語パンフレットの有無",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "なし"
+                    },
+                    {
+                        "SightOptionCD": 24,
+                        "SightOptionName": "英語音声ガイドの有無",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "なし"
+                    }
+                ],
+                "HasCoupon": 0
+            }
+        ]
+    }
+]

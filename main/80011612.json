@@ -1,0 +1,176 @@
+[
+    {
+        "TotalResults": 1,
+        "TotalPages": 1,
+        "PageNo": 1,
+        "SightList": [
+            {
+                "SightID": 80011612,
+                "Title": "船の科学館",
+                "Kana": "ふねのかがくかん",
+                "Homen": {
+                    "Code": "02",
+                    "Name": "関東"
+                },
+                "Ken": {
+                    "Code": "13",
+                    "Name": "東京都"
+                },
+                "SubArea": {
+                    "Code": "1301",
+                    "Name": "東京駅・銀座・お台場"
+                },
+                "Mesh": {
+                    "Code": "130111",
+                    "Name": "お台場・有明・豊洲"
+                },
+                "Chiku": {
+                    "Code": "1310908",
+                    "Name": "お台場(品川区)"
+                },
+                "JIS": {
+                    "Code": "13109",
+                    "Name": "品川区"
+                },
+                "GenreList": [
+                    {
+                        "LGenre": {
+                            "Code": "1",
+                            "Name": "見る"
+                        },
+                        "MGenre": {
+                            "Code": "14",
+                            "Name": "美術館・博物館"
+                        },
+                        "Genre": {
+                            "Code": "151",
+                            "Name": "博物館・科学館・資料館"
+                        }
+                    },
+                    {
+                        "LGenre": {
+                            "Code": "2",
+                            "Name": "遊ぶ"
+                        },
+                        "MGenre": {
+                            "Code": "21",
+                            "Name": "アウトドア・スポーツ"
+                        },
+                        "Genre": {
+                            "Code": "224",
+                            "Name": "カヌー・ラフティング"
+                        }
+                    }
+                ],
+                "Address": "東京都品川区東八潮3-1",
+                "LatitudeW10": "35.620194661",
+                "LongitudeW10": "139.772134894",
+                "Latitude": "35370102",
+                "Longitude": "139463132",
+                "Summary": "海と船の文化をテーマにした海洋博物館。現在、本館展示を休止し、別館展示場及び初代南極観測船“宗谷”を中心に公開している。様々な船の模型や「にっぽんの海」の海底地形模型、各種映像など、海・船に関して学ぶことができる。",
+                "Time": "10～17時(“宗谷”乗船は16時45分まで)",
+                "Closed": "月曜(祝日の場合は翌日)",
+                "Price": "無料",
+                "Traffic1": "ゆりかもめ東京国際クルーズターミナル駅→徒歩1分",
+                "Traffic2": "首都高速台場出入口から1.5km7分",
+                "Station": {
+                    "Code": "7247",
+                    "Name": "東京国際クルーズターミナル"
+                },
+                "Parking": {
+                    "Code": "あり",
+                    "Number": "338",
+                    "ParkingRemark": "1時間300円、以降30分毎100円"
+                },
+                "Tel": "03-5500-1111",
+                "PhotoList": [
+                    {
+                        "Order": 1,
+                        "URL": "SI_80011612_92506.jpg",
+                        "Caption": "初代南極観測船 宗谷"
+                    },
+                    {
+                        "Order": 2,
+                        "URL": "SI_80011612_66258.jpg",
+                        "Caption": "別館展示場 外観"
+                    },
+                    {
+                        "Order": 3,
+                        "URL": "SI_80011612_66259.jpg",
+                        "Caption": "別館展示場 内部"
+                    }
+                ],
+                "Rank": "おすすめ度B",
+                "SightOptionList": [
+                    {
+                        "SightOptionCD": 0,
+                        "SightOptionName": "ちょっと立ち寄り",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "所要60～90分くらい"
+                    },
+                    {
+                        "SightOptionCD": 1,
+                        "SightOptionName": "ベビーおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 2,
+                        "SightOptionName": "キッズおすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 3,
+                        "SightOptionName": "女子おすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 4,
+                        "SightOptionName": "ペットおすすめ",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "おすすめでない"
+                    },
+                    {
+                        "SightOptionCD": 5,
+                        "SightOptionName": "春におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 6,
+                        "SightOptionName": "夏におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 7,
+                        "SightOptionName": "秋におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 8,
+                        "SightOptionName": "冬におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 9,
+                        "SightOptionName": "雨でもOK",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 23,
+                        "SightOptionName": "英語パンフレットの有無",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "あり"
+                    }
+                ],
+                "HasCoupon": 0
+            }
+        ]
+    }
+]

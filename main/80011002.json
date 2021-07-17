@@ -1,0 +1,158 @@
+[
+    {
+        "TotalResults": 1,
+        "TotalPages": 1,
+        "PageNo": 1,
+        "SightList": [
+            {
+                "SightID": 80011002,
+                "Title": "お台場海浜公園",
+                "Kana": "おだいばかいひんこうえん",
+                "Homen": {
+                    "Code": "02",
+                    "Name": "関東"
+                },
+                "Ken": {
+                    "Code": "13",
+                    "Name": "東京都"
+                },
+                "SubArea": {
+                    "Code": "1301",
+                    "Name": "東京駅・銀座・お台場"
+                },
+                "Mesh": {
+                    "Code": "130111",
+                    "Name": "お台場・有明・豊洲"
+                },
+                "Chiku": {
+                    "Code": "1310306",
+                    "Name": "お台場(港区)"
+                },
+                "JIS": {
+                    "Code": "13103",
+                    "Name": "港区"
+                },
+                "GenreList": [
+                    {
+                        "LGenre": {
+                            "Code": "1",
+                            "Name": "見る"
+                        },
+                        "MGenre": {
+                            "Code": "13",
+                            "Name": "動植物園・公園"
+                        },
+                        "Genre": {
+                            "Code": "141",
+                            "Name": "公園"
+                        }
+                    }
+                ],
+                "Address": "東京都港区台場1-4",
+                "LatitudeW10": "35.630612669",
+                "LongitudeW10": "139.775989408",
+                "Latitude": "35373853",
+                "Longitude": "139464520",
+                "Summary": "白砂のビーチが広がるお台場海浜公園。海水浴はできないが、夏には日光浴やウインドサーフィンを楽しむ人が集まる。正面にレインボーブリッジが望め、特に夜景がみごと。マリンスポーツのためのシャワーやボード洗い場、トイレも完備されている。",
+                "Time": "入園自由",
+                "Closed": "入園自由",
+                "Price": "入園自由",
+                "Traffic1": "ゆりかもめお台場海浜公園駅・台場駅→徒歩3分。またはりんかい線東京テレポート駅→徒歩10分",
+                "Traffic2": "首都高速台場出入口から都道482号経由1.4km5分",
+                "Station": {
+                    "Code": "7245",
+                    "Name": "お台場海浜公園"
+                },
+                "Parking": {
+                    "Code": "あり",
+                    "Number": "101",
+                    "ParkingRemark": "(中央駐車場)、244台(北口駐車場)"
+                },
+                "InquiryName": "お台場海浜公園管理事務所",
+                "Tel": "03-5531-0852",
+                "PhotoList": [
+                    {
+                        "Order": 1,
+                        "URL": "SI_80011002_15317.jpg"
+                    }
+                ],
+                "Rank": "おすすめ度A",
+                "SightOptionList": [
+                    {
+                        "SightOptionCD": 0,
+                        "SightOptionName": "ちょっと立ち寄り",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "所要30～60分くらい"
+                    },
+                    {
+                        "SightOptionCD": 1,
+                        "SightOptionName": "ベビーおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 2,
+                        "SightOptionName": "キッズおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 3,
+                        "SightOptionName": "女子おすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 4,
+                        "SightOptionName": "ペットおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 5,
+                        "SightOptionName": "春におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 6,
+                        "SightOptionName": "夏におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 7,
+                        "SightOptionName": "秋におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 8,
+                        "SightOptionName": "冬におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 9,
+                        "SightOptionName": "雨でもOK",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 23,
+                        "SightOptionName": "英語パンフレットの有無",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "あり"
+                    },
+                    {
+                        "SightOptionCD": 24,
+                        "SightOptionName": "英語音声ガイドの有無",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "なし"
+                    }
+                ],
+                "HasCoupon": 0
+            }
+        ]
+    }
+]

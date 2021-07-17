@@ -1,0 +1,170 @@
+[
+    {
+        "TotalResults": 1,
+        "TotalPages": 1,
+        "PageNo": 1,
+        "SightList": [
+            {
+                "SightID": 80011585,
+                "Title": "そなエリア東京",
+                "Kana": "そなえりあとうきょう",
+                "Homen": {
+                    "Code": "02",
+                    "Name": "関東"
+                },
+                "Ken": {
+                    "Code": "13",
+                    "Name": "東京都"
+                },
+                "SubArea": {
+                    "Code": "1301",
+                    "Name": "東京駅・銀座・お台場"
+                },
+                "Mesh": {
+                    "Code": "130111",
+                    "Name": "お台場・有明・豊洲"
+                },
+                "Chiku": {
+                    "Code": "1310803",
+                    "Name": "お台場(江東区)・有明・豊洲"
+                },
+                "JIS": {
+                    "Code": "13108",
+                    "Name": "江東区"
+                },
+                "GenreList": [
+                    {
+                        "LGenre": {
+                            "Code": "1",
+                            "Name": "見る"
+                        },
+                        "MGenre": {
+                            "Code": "14",
+                            "Name": "美術館・博物館"
+                        },
+                        "Genre": {
+                            "Code": "151",
+                            "Name": "博物館・科学館・資料館"
+                        }
+                    }
+                ],
+                "Address": "東京都江東区有明3-8-35",
+                "LatitudeW10": "35.635342",
+                "LongitudeW10": "139.794135",
+                "Latitude": "35375543",
+                "Longitude": "139475277",
+                "Summary": "東京臨海広域防災公園内にある地震に備える知識を身につけるための防災体験学習施設。東日本大震災後に発表された首都直下地震の被害想定に基づいた内容となっている。東京直下72hTOURでは、首都直下地震が発生した直後を想定したジオラマの中を、貸し出すタブレットを使用して、生き残るための知恵を紹介するクイズを解きながら、地震発生から避難までを体験。その他、アニメ『東京マグニチュード8.0～東京直下72h～』を見たり、首都直下地震の被害想定などをわかりやすく学ぶことができる。",
+                "Time": "9時30分～17時(最終入館16時30分)",
+                "Closed": "月曜(祝日の場合は翌日)、臨時休館あり",
+                "Price": "入場無料",
+                "Traffic1": "ゆりかもめ有明駅→徒歩2分",
+                "Station": {
+                    "Code": "7251",
+                    "Name": "有明（東京）"
+                },
+                "Parking": {
+                    "Code": "なし"
+                },
+                "Tel": "03-3529-2180",
+                "PhotoList": [
+                    {
+                        "Order": 1,
+                        "URL": "SI_80011585_16325.jpg",
+                        "Caption": "外観"
+                    },
+                    {
+                        "Order": 2,
+                        "URL": "SI_80011585_129892.jpg",
+                        "Caption": "東京直下72hTOUR"
+                    },
+                    {
+                        "Order": 3,
+                        "URL": "SI_80011585_129893.jpg",
+                        "Caption": "首都直下地震特設コーナー"
+                    },
+                    {
+                        "Order": 4,
+                        "URL": "SI_80011585_16328.jpg",
+                        "Caption": "東京直下72hTOUR"
+                    }
+                ],
+                "Rank": "おすすめ度B",
+                "SightOptionList": [
+                    {
+                        "SightOptionCD": 0,
+                        "SightOptionName": "ちょっと立ち寄り",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "所要60～90分くらい"
+                    },
+                    {
+                        "SightOptionCD": 1,
+                        "SightOptionName": "ベビーおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 2,
+                        "SightOptionName": "キッズおすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 3,
+                        "SightOptionName": "女子おすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 4,
+                        "SightOptionName": "ペットおすすめ",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "おすすめでない"
+                    },
+                    {
+                        "SightOptionCD": 5,
+                        "SightOptionName": "春におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 6,
+                        "SightOptionName": "夏におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 7,
+                        "SightOptionName": "秋におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 8,
+                        "SightOptionName": "冬におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 9,
+                        "SightOptionName": "雨でもOK",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 23,
+                        "SightOptionName": "英語パンフレットの有無",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "あり"
+                    },
+                    {
+                        "SightOptionCD": 24,
+                        "SightOptionName": "英語音声ガイドの有無",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "なし"
+                    }
+                ],
+                "HasCoupon": 0
+            }
+        ]
+    }
+]
