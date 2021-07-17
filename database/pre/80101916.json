@@ -1,0 +1,121 @@
+[
+    {
+        "TotalResults": 1,
+        "TotalPages": 1,
+        "PageNo": 1,
+        "SightList": [
+            {
+                "SightID": 80101916,
+                "Title": "明治なるほどファクトリー大阪",
+                "Kana": "めいじなるほどふぁくとりーおおさか",
+                "Homen": {
+                    "Code": "04",
+                    "Name": "近畿"
+                },
+                "Ken": {
+                    "Code": "27",
+                    "Name": "大阪府"
+                },
+                "SubArea": {
+                    "Code": "2703",
+                    "Name": "豊中・池田・高槻"
+                },
+                "Mesh": {
+                    "Code": "270305",
+                    "Name": "茨木・高槻・摂津峡"
+                },
+                "Chiku": {
+                    "Code": "2720701",
+                    "Name": "高槻市"
+                },
+                "JIS": {
+                    "Code": "27207",
+                    "Name": "高槻市"
+                },
+                "GenreList": [
+                    {
+                        "LGenre": {
+                            "Code": "1",
+                            "Name": "見る"
+                        },
+                        "MGenre": {
+                            "Code": "19",
+                            "Name": "その他"
+                        },
+                        "Genre": {
+                            "Code": "161",
+                            "Name": "工場・施設見学"
+                        }
+                    }
+                ],
+                "Address": "大阪府高槻市朝日町1-10明治 大阪工場",
+                "LatitudeW10": "34.843283236",
+                "LongitudeW10": "135.599211782",
+                "Latitude": "34502416",
+                "Longitude": "135360732",
+                "Summary": "明治 大阪工場の見学施設が、平成28年(2016)4月に「明治なるほどファクトリー大阪」としてリニューアルオープン。チョコレートの製造工程の見学やチョコレートの栄養素や健康効果の紹介などを通じて、明治の安全・安心なモノづくり、「食と健康」へのこだわりの取組みについて楽しく学ぶことができる。",
+                "Time": "見学開始時間は9時30分～、10時～、13時30分～ ※開始時間は要相談",
+                "Closed": "土・日曜、工場休業日(要問合せ)",
+                "Price": "見学無料",
+                "Traffic1": "ＪＲ摂津富田駅→徒歩15分",
+                "Traffic2": "名神高速茨木ICから国道171号経由4km10分",
+                "Station": {
+                    "Code": "2139",
+                    "Name": "摂津富田"
+                },
+                "Parking": {
+                    "Code": "あり",
+                    "Number": "8",
+                    "ParkingRemark": "無料"
+                },
+                "Tel": "072-685-5031",
+                "TelAnnotation": "※月～金曜9～16時(12～13時を除く)",
+                "PhotoList": [
+                    {
+                        "Order": 1,
+                        "URL": "SI_80101916_74608.jpg",
+                        "Caption": "展示ホール"
+                    },
+                    {
+                        "Order": 2,
+                        "URL": "SI_80101916_74609.jpg",
+                        "Caption": "見学ライン"
+                    },
+                    {
+                        "Order": 3,
+                        "URL": "SI_80101916_74610.jpg",
+                        "Caption": "外観"
+                    }
+                ],
+                "Rank": "おすすめ度B",
+                "SightOptionList": [
+                    {
+                        "SightOptionCD": 0,
+                        "SightOptionName": "ちょっと立ち寄り",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "所要60～90分くらい"
+                    },
+                    {
+                        "SightOptionCD": 1,
+                        "SightOptionName": "ベビーおすすめ",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "おすすめでない"
+                    },
+                    {
+                        "SightOptionCD": 2,
+                        "SightOptionName": "キッズおすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 4,
+                        "SightOptionName": "ペットおすすめ",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "おすすめでない"
+                    }
+                ],
+                "HasCoupon": 0
+            }
+        ]
+    }
+]

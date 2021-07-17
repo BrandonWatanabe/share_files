@@ -1,0 +1,158 @@
+[
+    {
+        "TotalResults": 1,
+        "TotalPages": 1,
+        "PageNo": 1,
+        "SightList": [
+            {
+                "SightID": 80028878,
+                "Title": "総持寺",
+                "Kana": "そうじじ",
+                "Homen": {
+                    "Code": "04",
+                    "Name": "近畿"
+                },
+                "Ken": {
+                    "Code": "27",
+                    "Name": "大阪府"
+                },
+                "SubArea": {
+                    "Code": "2703",
+                    "Name": "豊中・池田・高槻"
+                },
+                "Mesh": {
+                    "Code": "270305",
+                    "Name": "茨木・高槻・摂津峡"
+                },
+                "Chiku": {
+                    "Code": "2721101",
+                    "Name": "茨木市"
+                },
+                "JIS": {
+                    "Code": "27211",
+                    "Name": "茨木市"
+                },
+                "GenreList": [
+                    {
+                        "LGenre": {
+                            "Code": "1",
+                            "Name": "見る"
+                        },
+                        "MGenre": {
+                            "Code": "11",
+                            "Name": "社寺・教会"
+                        },
+                        "Genre": {
+                            "Code": "131",
+                            "Name": "社寺・教会"
+                        }
+                    }
+                ],
+                "Address": "大阪府茨木市総持寺1-6-1",
+                "LatitudeW10": "34.829198183",
+                "LongitudeW10": "135.581600183",
+                "Latitude": "34493345",
+                "Longitude": "135350391",
+                "Summary": "仁和2年(886)に建立されたが、信長の茨木合戦で焼失。慶長8年(1603)に豊臣秀頼が再建した。毎年4月には寺に伝わる山蔭流包丁式があり、全国から料理人が集まる。",
+                "Time": "8～17時",
+                "Closed": "無休",
+                "Price": "拝観無料",
+                "Traffic1": "阪急総持寺駅→徒歩5分。またはＪＲ総持寺駅→徒歩5分",
+                "Traffic2": "名神高速茨木ICから国道171号経由3km10分",
+                "Station": {
+                    "Code": "6329",
+                    "Name": "総持寺"
+                },
+                "Parking": {
+                    "Code": "あり",
+                    "Number": "20",
+                    "ParkingRemark": "有料"
+                },
+                "Tel": "072-622-3209",
+                "PhotoList": [
+                    {
+                        "Order": 1,
+                        "URL": "SI_80028878_90841.jpg",
+                        "Caption": "山門"
+                    }
+                ],
+                "Rank": "おすすめ度B",
+                "SightOptionList": [
+                    {
+                        "SightOptionCD": 0,
+                        "SightOptionName": "ちょっと立ち寄り",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "所要30～60分くらい"
+                    },
+                    {
+                        "SightOptionCD": 1,
+                        "SightOptionName": "ベビーおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 2,
+                        "SightOptionName": "キッズおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 3,
+                        "SightOptionName": "女子おすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 4,
+                        "SightOptionName": "ペットおすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 5,
+                        "SightOptionName": "春におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 6,
+                        "SightOptionName": "夏におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 7,
+                        "SightOptionName": "秋におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 8,
+                        "SightOptionName": "冬におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 9,
+                        "SightOptionName": "雨でもOK",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 23,
+                        "SightOptionName": "英語パンフレットの有無",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "なし"
+                    },
+                    {
+                        "SightOptionCD": 24,
+                        "SightOptionName": "英語音声ガイドの有無",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "なし"
+                    }
+                ],
+                "HasCoupon": 0
+            }
+        ]
+    }
+]

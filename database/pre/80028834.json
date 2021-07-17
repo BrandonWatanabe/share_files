@@ -1,0 +1,172 @@
+[
+    {
+        "TotalResults": 1,
+        "TotalPages": 1,
+        "PageNo": 1,
+        "SightList": [
+            {
+                "SightID": 80028834,
+                "Title": "国立民族学博物館",
+                "Kana": "こくりつみんぞくがくはくぶつかん",
+                "Homen": {
+                    "Code": "04",
+                    "Name": "近畿"
+                },
+                "Ken": {
+                    "Code": "27",
+                    "Name": "大阪府"
+                },
+                "SubArea": {
+                    "Code": "2703",
+                    "Name": "豊中・池田・高槻"
+                },
+                "Mesh": {
+                    "Code": "270301",
+                    "Name": "江坂・豊中・吹田・大阪(伊丹)空港"
+                },
+                "Chiku": {
+                    "Code": "2720501",
+                    "Name": "吹田市"
+                },
+                "JIS": {
+                    "Code": "27205",
+                    "Name": "吹田市"
+                },
+                "GenreList": [
+                    {
+                        "LGenre": {
+                            "Code": "1",
+                            "Name": "見る"
+                        },
+                        "MGenre": {
+                            "Code": "14",
+                            "Name": "美術館・博物館"
+                        },
+                        "Genre": {
+                            "Code": "151",
+                            "Name": "博物館・科学館・資料館"
+                        }
+                    }
+                ],
+                "Address": "大阪府吹田市千里万博公園10-1",
+                "LatitudeW10": "34.812856925",
+                "LongitudeW10": "135.529738472",
+                "Latitude": "34483462",
+                "Longitude": "135315719",
+                "Summary": "文化人類学と民族学をテーマにした世界最大級の民族学博物館。研究者が世界各地で収集した民族衣装などの生活用具のほか、世界の人びとの儀礼や芸能を紹介する映像を見ることができる。本館展示場は、世界を9つにわけた地域展示と音楽、言語の2つの通文化展示で構成されている。広い展示場を一周すれば、さながら世界旅行をしたような時間を過ごすことができる。平成29(2017)年3月に本館展示のリニューアル完了。平成29(2017)年11月は開館40周年となる。",
+                "Time": "10～17時(入館は～16時30分)",
+                "Closed": "水曜(祝日の場合は翌日)、12月28日～1月4日",
+                "Price": "観覧420円(特別展観覧料は別途料金)",
+                "Traffic1": "大阪モノレール（大阪高速鉄道）万博記念公園駅→徒歩15分。または大阪モノレール(大阪高速鉄道)公園東口駅→徒歩15分",
+                "Traffic2": "名神高速吹田ICから4.6km20分",
+                "Station": {
+                    "Code": "8181",
+                    "Name": "万博記念公園（大阪）"
+                },
+                "Parking": {
+                    "Code": "なし",
+                    "ParkingRemark": "万博記念公園有料駐車場利用"
+                },
+                "Tel": "06-6876-2151",
+                "PhotoList": [
+                    {
+                        "Order": 1,
+                        "URL": "SI_80028834_40891.jpg",
+                        "Caption": "国立民族学博物館外観"
+                    },
+                    {
+                        "Order": 2,
+                        "URL": "SI_80028834_40893.jpg",
+                        "Caption": "東南アジア展示の「魔女ランダと聖獣バロンの仮面と衣装」"
+                    },
+                    {
+                        "Order": 3,
+                        "URL": "SI_80028834_40892.jpg",
+                        "Caption": "オセアニア展示の「チェチェメニ号」"
+                    },
+                    {
+                        "Order": 4,
+                        "URL": "SI_80028834_40894.jpg",
+                        "Caption": "南アジア展示の「インドの神像(ドゥルガー)」"
+                    }
+                ],
+                "Rank": "おすすめ度A",
+                "SightOptionList": [
+                    {
+                        "SightOptionCD": 0,
+                        "SightOptionName": "ちょっと立ち寄り",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "所要60～90分くらい"
+                    },
+                    {
+                        "SightOptionCD": 1,
+                        "SightOptionName": "ベビーおすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 2,
+                        "SightOptionName": "キッズおすすめ",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 3,
+                        "SightOptionName": "女子おすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 4,
+                        "SightOptionName": "ペットおすすめ",
+                        "SightOptionLevelCD": 2,
+                        "SightOptionLevelName": "おすすめでない"
+                    },
+                    {
+                        "SightOptionCD": 5,
+                        "SightOptionName": "春におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 6,
+                        "SightOptionName": "夏におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 7,
+                        "SightOptionName": "秋におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 8,
+                        "SightOptionName": "冬におすすめ",
+                        "SightOptionLevelCD": 1,
+                        "SightOptionLevelName": "どちらでもない"
+                    },
+                    {
+                        "SightOptionCD": 9,
+                        "SightOptionName": "雨でもOK",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "おすすめ"
+                    },
+                    {
+                        "SightOptionCD": 23,
+                        "SightOptionName": "英語パンフレットの有無",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "あり"
+                    },
+                    {
+                        "SightOptionCD": 24,
+                        "SightOptionName": "英語音声ガイドの有無",
+                        "SightOptionLevelCD": 0,
+                        "SightOptionLevelName": "あり"
+                    }
+                ],
+                "HasCoupon": 0
+            }
+        ]
+    }
+]
