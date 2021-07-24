@@ -1,0 +1,61 @@
+{
+    "user_name": [
+        "null"
+    ],
+    "target_id": [
+        "80028808",
+        "80028834",
+        "80028878",
+        "80028880",
+        "80028943",
+        "80101916"
+    ],
+    "dummy_id": [
+        "80028808",
+        "80028834",
+        "80028878",
+        "80028880",
+        "80028943",
+        "80101916"
+    ],
+    "genre_like": [
+        "null",
+        "positive",
+        "negative",
+        "unknown"
+    ],
+    "target_experience": [
+        "null",
+        "yes",
+        "no",
+        "unknown"
+    ],
+    "dummy_experience": [
+        "null",
+        "yes",
+        "no",
+        "unknown"
+    ],
+    "companion_type": [
+        "null",
+        "family",
+        "couple",
+        "friend",
+        "single",
+        "unknown"
+    ],
+    "with_child": [
+        "null",
+        "yes",
+        "no",
+        "unknown"
+    ],
+    "interest_id": [
+        "80028808",
+        "80028834",
+        "80028878",
+        "80028880",
+        "80028943",
+        "80101916"
+    ]
+}
