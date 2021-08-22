@@ -1,0 +1,331 @@
+    
+{
+    "parameters":{
+        "null": {
+            "EyeController": {"targetPoint": {"x": 0,"y": 1.2,"z": 1.5}},
+            "HeadController": {"targetPoint": {"x": 0,"y": 1.2,"z": 1.5}}
+        },
+        "greet": {
+            "playmotion": "greeting"
+        },
+        "look-monitor": {
+            "EyeController": {"motionTowardObject": "monitor"},
+            "HeadController": {"motionTowardObject": "monitor"}
+        },
+        "nod_1": {
+            "playmotion": "nod_deep_eye"
+        },
+        "nod_2": {
+            "playmotion": "nod"
+        },
+        "nod_3": {
+            "playmotion": "nod_deep_head"
+        }
+    },
+    "da2motion": {
+        "general-greet": {
+            "slots": {
+                "robot_name": "[robot_name]"
+            },
+            "motion": "greet"
+        },
+        "general-nod":{
+            "slots": {},
+            "motion": "nod_2"
+        },
+        "general-have_goodtime":{
+            "slots":{},
+            "motion": "null"
+        },
+        "general-bye":{
+            "slots":{},
+            "motion": "greet"
+        },
+        "react-agree":{
+            "slots": {},
+            "motion": "nod_2"
+        },
+        "react-realize":{
+            "slots": {},
+            "motion": "nod_2"
+        },
+        "react-accept":{
+            "slots": {},
+            "motion": "nod_2"
+        },
+        "request-user_information":{
+            "slots": {},
+            "motion": "null"
+        },
+        "request-user_name":{
+            "slots": {},
+            "motion": "null"
+        },
+        "request-repeat":{
+            "slots":{},
+            "motion": "null"
+        },
+        "confirm-user_name":{
+            "slots": {
+                "user_name": "[user_name]"
+            },
+            "motion": "null"
+        },
+        "confirm-sight_selection":{
+            "slots": {
+                "target_name": "[target_name]",
+                "dummy_name":"[dummy_name]"
+            },
+            "motion": "null"
+        },
+        "request-genre_like":{
+            "slots": {
+                "target_name": "[target_name]",
+                "dummy_name": "[dummy_name]",
+                "sight_genre": "[sight_genre]"
+            },
+            "motion": "null"
+        },
+        "request-target_experience":{
+            "slots": {
+                "user_name": "[user_name]",
+                "target_name":"[target_name]"
+            },
+            "motion": "null"
+        },
+        "request-dummy_experience":{
+            "slots": {
+                "dummy_name":"[dummy_name]"
+            },
+            "motion": "null"
+        },
+        "understand-experience":{
+            "slots": {},
+            "motion": "nod_1"
+        },
+        "understand-no_experience":{
+            "slots": {},
+            "motion": "nod_1"
+        },
+        "request-experience_story": {
+            "slots": {},
+            "motion": "null"
+        },
+        "request-how_was":{
+            "slots": {},
+            "motion": "null"
+        },
+        "understand-experience_story":{
+            "slots": {},
+            "motion": "nod_3"
+        },
+        "thank-experience_story":{
+            "slots": {},
+            "motion": "nod_1"
+        },
+        "request-companion_type": {
+            "slots": {},
+            "motion": "null"
+        },
+        "react-companion_type": {
+            "slots": {
+                "companion": "[companion]"
+            },
+            "motion": "null"
+        },
+        "request-with_child":{
+            "slots": {},
+            "motion": "null"
+        },
+        "explain-introduce_start": {
+            "slots": {},
+            "motion":  "look-monitor"
+        },
+        "introduce-target": {
+            "slots": {
+                "target_name": "[target_name]",
+                "target_summary": "[target_summary]"
+            },
+            "motion":  "look-monitor"
+        },
+        "introduce-dummy":{
+            "slots": {
+                "dummy_name":"[dummy_name]",
+                "dummy_summary": "[dummy_summary]"
+            },
+            "motion": "look-monitor"
+        },
+        "recommend-target":{
+            "slots": {
+                "target_name":"[target_name]",
+                "target_summary": "[target_summary]"
+            },
+            "motion": "look-monitor"
+        },
+        "recommend-target_with_genre_like":{
+            "slots":{
+                "user_name": "[user_name]",
+                "genre": "[genre]"
+            },
+            "motion": "null"
+        },
+        "recommend-target_with_experience":{
+            "slots":{
+                "user_name": "[user_name]"
+            },
+            "motion": "null"
+        },
+        "recommend-target_with_child":{
+            "slots":{
+                "user_name": "[user_name]"
+            },
+            "motion": "null"
+        },
+        "recommend-target_with_somebody_experience":{
+            "slots": {
+                "user_name": "[user_name]"
+            },
+            "motion": "look-monitor"
+        },
+        "ask-for_question":{
+            "slots": {},
+            "motion": "null"
+        },
+        "ask-for_question_with_examples":{
+            "slots": {},
+            "motion": "null"
+        },
+        "ask-for_more_question":{
+            "slots": {},
+            "motion": "null"
+        },
+        "ask-interest_sight": {
+            "slots": {},
+            "motion": "null"
+        },
+        "suggest-target":{
+            "slots": {
+                "target_name":"[target_name]"
+            },
+            "motion": "null"
+        },
+        "answer-sight_introduction_single": {
+            "slots": {
+                "sight_name": "[sight_name]",
+                "sight_summary": "[sight_summary]"
+            },
+            "motion": "null"
+        },
+        "answer-interest_sight_single": {
+            "slots": {
+                "sight_name": "[sight_name]",
+                "sight_summary": "[sight_summary]"
+            },
+            "motion": "null"
+        },
+        "answer-no_more_information_single": {
+            "slots": {},
+            "motion": "null"
+        },
+        "answer-area_single": {
+            "slots": {
+                "sight_name": "[sight_name]",
+                "sight_area": "[sight_area]"
+            },
+            "motion": "null"
+        },
+        "answer-price_single":{
+            "slots": {
+                "sight_name": "[sight_name]",
+                "sight_price": "[sight_price]"
+            },
+            "motion": "null"
+        },
+        "answer-time_single":{
+            "slots": {
+                "sight_name": "[sight_name]",
+                "sight_time": "[sight_time]"
+            },
+            "motion": "null"
+        },
+        "answer-traffic1_single":{
+            "slots": {
+                "sight_name":"[sight_name]",
+                "sight_traffic1":"[sight_traffic1]"
+            },
+            "motion": "null"
+        },
+        "answer-traffic2_single":{
+            "slots": {
+                "sight_name":"[sight_name]",
+                "sight_traffic1":"[sight_traffic2]"
+            },
+            "motion": "null"
+        },
+        "answer-season_single":{
+            "slots":{
+                "sight_name":"[sight_name]",
+                "sight_season": "[sight_season]"
+            },
+            "motion": "null"
+        },
+        "answer-area_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_area_1": "[sight_area_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_area_2": "[sight_area_2]"
+            },
+            "motion": "null"
+        },
+        "answer-price_double":{
+            "slots": {
+                "sight_name_1": "[sight_name_1]",
+                "sight_price_1": "[sight_price_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_price_2": "[sight_price_2]"
+            },
+            "motion": "null"
+        },
+        "answer-time_double":{
+            "slots": {
+                "sight_name_1": "[sight_name_1]",
+                "sight_time_1": "[sight_time_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_time_2": "[sight_time_2]"
+            },
+            "motion": "null"
+        },
+        "answer-traffic1_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_traffic1_1": "[sight_traffic1_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_traffic1_2": "[sight_traffic1_2]"
+            },
+            "motion": "null"
+        },
+        "answer-traffic2_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_traffic1_1": "[sight_traffic1_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_traffic1_2": "[sight_traffic1_2]"
+            },
+            "motion": "null"
+        },
+        "answer-season_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_season_1": "[sight_season_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_season_2": "[sight_season_2]"
+            },
+            "motion": "null"
+        },
+        "inform-for_continue":{
+            "slots":{},
+            "motion": "null"
+        }
+    }
+}

@@ -1,0 +1,318 @@
+{
+    "parameters":{
+        "normal": {
+            "valence": 0,
+            "arousal": 0,
+            "dominance": 0,
+            "realIntention": 0
+        },
+        "cheerful": {
+            "valence": 0.23,
+            "arousal": -0.41,
+            "dominance": -0.02
+        },
+        "happy": {
+            "valence": 0.54,
+            "arousal": -0.04,
+            "dominance": 0.05
+        },
+        "love": {
+            "valence": 0.39,
+            "arousal": -0.2,
+            "dominance": 0.11
+        },
+        "angry": {
+            "valence": -0.1,
+            "arousal": 0.3,
+            "dominance": -0.5
+        },
+        "sentimental": {
+            "valence": -0.2,
+            "arousal ": -0.32,
+            "dominance": -0.27
+        }
+    },
+    "da2expression": {
+        "general-greet": {
+            "slots": {
+                "robot_name": "[robot_name]"
+            },
+            "expression": "happy"
+        },
+        "general-nod":{
+            "slots": {},
+            "expression": "love"
+        },
+        "general-have_goodtime":{
+            "slots":{},
+            "expression": "happy"
+        },
+        "general-bye":{
+            "slots":{},
+            "expression": "happy"
+        },
+        "react-agree":{
+            "slots": {},
+            "expression": "love"
+        },
+        "react-realize":{
+            "slots": {},
+            "expression": "love"
+        },
+        "react-accept":{
+            "slots": {},
+            "expression": "happy"
+        },
+        "request-user_name":{
+            "slots": {},
+            "expression": "love"
+        },
+        "request-repeat":{
+            "slots":{},
+            "expression": "sentimental"
+        },
+        "confirm-user_name":{
+            "slots": {
+                "user_name": "[user_name]"
+            },
+            "expression": "love"
+        },
+        "confirm-sight_selection":{
+            "slots":{
+                "target_name": "[target_name]",
+                "dummy_name":"[dummy_name]"},
+            "expression": "love"
+        },
+        "request-genre_like":{
+            "slots": {
+                "target_name": "[target_name]",
+                "dummy_name": "[dummy_name]",
+                "sight_genre": "[sight_genre]"
+            },
+            "expression": "love"
+        },
+        "request-target_experience":{
+            "slots": {
+                "user_name": "[user_name]",
+                "target_name":"[target_name]"
+            },
+            "expression": "love"
+        },
+        "request-dummy_experience":{
+            "slots": {
+                "dummy_name":"[dummy_name]"
+            },
+            "expression": "love"
+        },
+        "understand-experience":{
+            "slots": {},
+            "expression": "love"
+        },
+        "understand-no_experience":{
+            "slots": {},
+            "expression": "love"
+        },
+        "request-experience_story": {
+            "slots": {},
+            "expression": "love"
+        },
+        "request-how_was":{
+            "slots": {},
+            "expression": "cheerful"
+        },
+        "understand-experience_story":{
+            "slots": {},
+            "expression": "love"
+        },
+        "thank-experience_story":{
+            "slots":{},
+            "expression": "love"
+        },
+        "request-companion_type": {
+            "slots": {},
+            "expression": "love"
+        },
+        "request-with_child":{
+            "slots": {},
+            "expression": "love"
+        },
+        "introduce-target": {
+            "slots": {
+                "target_name": "[target_name]",
+                "target_summary": "[target_summary]"
+            },
+            "expression": "love" 
+        },
+        "recommend-target":{
+            "slots": {
+                "target_name":"[target_name]",
+                "target_summary": "[target_summary]"
+            },
+            "expression": "love"
+        },
+        "recommend-target_with_genre_like":{
+            "slots":{
+                "user_name": "[user_name]",
+                "genre": "[genre]"
+            },
+            "expression": "love"
+        },
+        "recommend-target_with_experience":{
+            "slots":{
+                "user_name": "[user_name]"
+            },
+            "expression": "love"
+        },
+        "recommend-target_with_child":{
+            "slots":{
+                "user_name": "[user_name]"
+            },
+            "expression": "love"
+        },
+        "explain-introduce_start":{
+            "slots":{},
+            "expression": "love"
+        },
+        "introduce-dummy":{
+            "slots": {
+                "dummy_name":"[dummy_name]",
+                "dummy_summary": "[dummy_summary]"
+            },
+            "expression": "cheerful"
+        },
+        "ask-for_question_with_examples":{
+            "slots": {},
+            "expression": "love"
+        },
+        "ask-interest_sight": {
+            "slots": {},
+            "expression": "love"
+        },
+        "suggest-target":{
+            "slots": {
+                "target_name":"[target_name]"
+            },
+            "expression": "love"
+        },
+        "answer-sight_introduction_single":{
+            "slots": {
+                "sight_name": "[sight_name]",
+                "sight_summary": "[sight_summary]"
+            },
+            "expression": "love"
+        },
+        "answer-no_more_information_single":{
+            "slots": {},
+            "expression": "love"
+        },
+        "answer-time_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_time_1": "[sight_time_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_time_2": "[sight_time_2]"
+            },
+            "expression": "love"
+        },
+        "answer-price_single":{
+            "slots":{
+                "sight_name": "[sight_name]",
+                "sight_price": "[sight_price]"
+            },
+            "expression": "love"
+        },
+        "answer-traffic1_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_traffic1_1": "[sight_traffic1_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_traffic1_2": "[sight_traffic1_2]"
+            },
+            "expression": "love"
+        },
+        "answer-traffic1_single":{
+            "slots":{
+                "sight_name":"[sight_name]",
+                "sight_traffic1":"[sight_traffic1]"},
+            "expression": "love"
+        },
+        "answer-area_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_area_1": "[sight_area_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_area_2": "[sight_area_2]"},
+            "expression": "love"
+        },
+        "answer-season_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_season_1": "[sight_season_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_season_2": "[sight_season_2]"},
+            "expression": "love"
+        },
+        "ask-for_question":{
+            "slots":{},
+            "expression": "love"
+        },
+        "answer-season_single":{
+            "slots":{
+                "sight_name":"[sight_name]",
+                "sight_season": "[sight_season]"},
+            "expression": "love"
+        },
+        "ask-for_more_question":{
+            "slots":{},
+            "expression": "love"
+        },
+        "answer-price_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_price_1": "[sight_price_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_price_2": "[sight_price_2]"},
+            "expression": "love"
+        },
+        "answer-time_single":{
+            "slots":{
+                "sight_name": "[sight_name]",
+                "sight_time": "[sight_time]"},
+            "expression": "love"
+        },
+        "answer-traffic2_single":{
+            "slots":{
+                "sight_name": "[sight_name]",
+                "sight_traffic2": "[sight_traffic2]"},
+            "expression": "love"
+        },
+        "recommend-target_with_somebody_experience":{
+            "slots":{
+                "user_name": "[user_name]"},
+            "expression": "love"
+        },
+        "request-user_information":{
+            "slots":{},
+            "expression": "love"
+        },
+        "answer-traffic2_double":{
+            "slots":{
+                "sight_name_1": "[sight_name_1]",
+                "sight_traffic2_1": "[sight_traffic2_1]",
+                "sight_name_2": "[sight_name_2]",
+                "sight_traffic2_2": "[sight_traffic2_2]"},
+            "expression": "love"
+        },
+        "react-companion_type":{
+            "slots":{
+                "companion": "[companion]"},
+            "expression": "love"
+        },
+        "answer-area_single":{
+            "slots":{
+                "sight_name": "[sight_name]",
+                "sight_area": "[sight_area]"},
+            "expression": "love"
+        }
+    }
+}
